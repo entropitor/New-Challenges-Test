@@ -1,3 +1,4 @@
 title: Template Python Challenge
 programming_language: python
 from: "python-base-prod:20"
+mobile_pool_key: "34ca7130-8662-4670-ae8f-c77eb03a4fad"
